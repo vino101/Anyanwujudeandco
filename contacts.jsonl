@@ -1,0 +1,89 @@
+{"id":1760738088914,"name":"Test User","email":"test@example.com","message":"This is a test message from the contact form.","receivedAt":"2025-10-17T21:54:48.914Z"}
+{"id":1760738749352,"name":"Test User","email":"test@example.com","message":"Testing email sending with credentials set.","receivedAt":"2025-10-17T22:05:49.352Z"}
+{"id":1760739089713,"name":"Test User","email":"test@example.com","message":"Testing email sending to new address.","receivedAt":"2025-10-17T22:11:29.713Z"}
+{"id":1760739525347,"name":"Debug Test","email":"debug@example.com","message":"Testing email with debug logging.","receivedAt":"2025-10-17T22:18:45.347Z"}
+{"id":1760739847667,"name":"Debug Test","email":"debug@example.com","message":"Testing email with debug logging.","receivedAt":"2025-10-17T22:24:07.667Z"}
+{"id":1760740021671,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:01.671Z"}
+{"id":1760740021725,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:01.725Z"}
+{"id":1760740021778,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:01.778Z"}
+{"id":1760740021830,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:01.830Z"}
+{"id":1760740021881,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:01.881Z"}
+{"id":1760740021931,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:01.931Z"}
+{"id":1760740021981,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:01.981Z"}
+{"id":1760740022045,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.045Z"}
+{"id":1760740022100,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.100Z"}
+{"id":1760740022153,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.153Z"}
+{"id":1760740022219,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.219Z"}
+{"id":1760740022274,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.274Z"}
+{"id":1760740022327,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.327Z"}
+{"id":1760740022381,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.381Z"}
+{"id":1760740022436,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.436Z"}
+{"id":1760740022493,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.493Z"}
+{"id":1760740022547,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.547Z"}
+{"id":1760740022617,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.617Z"}
+{"id":1760740022672,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.672Z"}
+{"id":1760740022727,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.727Z"}
+{"id":1760740022779,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.779Z"}
+{"id":1760740022831,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.831Z"}
+{"id":1760740022884,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.884Z"}
+{"id":1760740022937,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.937Z"}
+{"id":1760740022990,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:02.990Z"}
+{"id":1760740023060,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.060Z"}
+{"id":1760740023115,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.115Z"}
+{"id":1760740023167,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.167Z"}
+{"id":1760740023220,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.220Z"}
+{"id":1760740023272,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.272Z"}
+{"id":1760740023322,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.322Z"}
+{"id":1760740023373,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.373Z"}
+{"id":1760740023424,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.424Z"}
+{"id":1760740023474,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.474Z"}
+{"id":1760740023525,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.525Z"}
+{"id":1760740023576,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.576Z"}
+{"id":1760740023626,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.626Z"}
+{"id":1760740023677,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.677Z"}
+{"id":1760740023727,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.727Z"}
+{"id":1760740023777,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.777Z"}
+{"id":1760740023827,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.827Z"}
+{"id":1760740023878,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.878Z"}
+{"id":1760740023929,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:03.929Z"}
+{"id":1760740024000,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.000Z"}
+{"id":1760740024051,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.051Z"}
+{"id":1760740024103,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.103Z"}
+{"id":1760740024154,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.154Z"}
+{"id":1760740024204,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.204Z"}
+{"id":1760740024253,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.253Z"}
+{"id":1760740024304,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.304Z"}
+{"id":1760740024353,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.353Z"}
+{"id":1760740024404,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.404Z"}
+{"id":1760740024453,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.453Z"}
+{"id":1760740024503,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.503Z"}
+{"id":1760740024552,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.552Z"}
+{"id":1760740024601,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.601Z"}
+{"id":1760740024650,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.650Z"}
+{"id":1760740024700,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.700Z"}
+{"id":1760740024751,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.751Z"}
+{"id":1760740024800,"name":"Rate Test","email":"rate@example.com","message":"Testing rate limiting.","receivedAt":"2025-10-17T22:27:04.800Z"}
+{"id":1760740501654,"name":"Vincent Anyanwu","email":"vincentanyanwu11@gmail.com","message":"hi there","receivedAt":"2025-10-17T22:35:01.654Z"}
+{"id":1760741048037,"name":"Test Email","email":"test@example.com","message":"Testing email delivery with real credentials.","receivedAt":"2025-10-17T22:44:08.037Z"}
+{"id":1760742151449,"name":"Console Debug Test","email":"debug@example.com","message":"Testing debug logging in console.","receivedAt":"2025-10-17T23:02:31.449Z"}
+{"id":1760742525373,"name":"Final Test","email":"test@example.com","message":"Final test to check if email is working.","receivedAt":"2025-10-17T23:08:45.373Z"}
+{"id":1760743441994,"name":"Test Email","email":"test@example.com","message":"Testing the rewritten email code.","receivedAt":"2025-10-17T23:24:01.994Z"}
+{"id":1760823516184,"name":"Vincent Anyanwu","email":"vincentanyanwu11@gmail.com","message":"jknblskjdbldak","receivedAt":"2025-10-18T21:38:36.184Z"}
+{"id":1760823785963,"name":"Test Email","email":"test@example.com","message":"Testing the fixed email code.","receivedAt":"2025-10-18T21:43:05.963Z"}
+{"id":1760823818761,"name":"Vincent Anyanwu","email":"vincentanyanwu11@gmail.com","message":"huljkjghdgsf","receivedAt":"2025-10-18T21:43:38.761Z"}
+{"id":1760824116636,"name":"Test Email","email":"test@example.com","message":"Testing the fixed email code.","receivedAt":"2025-10-18T21:48:36.636Z"}
+{"id":1760824188409,"name":"Test Email","email":"test@example.com","message":"Testing the fixed email code after restart.","receivedAt":"2025-10-18T21:49:48.409Z"}
+{"id":1760824487680,"name":"Test Email","email":"test@example.com","message":"Testing the alternative Gmail SMTP configuration.","receivedAt":"2025-10-18T21:54:47.680Z"}
+{"id":1760824626787,"name":"Test Email","email":"test@example.com","message":"Testing the fixed Gmail SMTP configuration with SSL and cleaned app password.","receivedAt":"2025-10-18T21:57:06.787Z"}
+{"id":1760825433621,"name":"Test Email","email":"test@example.com","message":"Testing after updating Gmail app password.","receivedAt":"2025-10-18T22:10:33.621Z"}
+{"id":1762542176363,"name":"Newsletter Subscriber","email":"vincentanyanwu11@gmail.com","message":"Subscribe to newsletter","receivedAt":"2025-11-07T19:02:56.363Z"}
+{"id":1762542177093,"name":"Newsletter Subscriber","email":"vincentanyanwu11@gmail.com","message":"Subscribe to newsletter","receivedAt":"2025-11-07T19:02:57.093Z"}
+{"id":1762542177348,"name":"Newsletter Subscriber","email":"vincentanyanwu11@gmail.com","message":"Subscribe to newsletter","receivedAt":"2025-11-07T19:02:57.348Z"}
+{"id":1762542177556,"name":"Newsletter Subscriber","email":"vincentanyanwu11@gmail.com","message":"Subscribe to newsletter","receivedAt":"2025-11-07T19:02:57.556Z"}
+{"id":1762542178749,"name":"Newsletter Subscriber","email":"vincentanyanwu11@gmail.com","message":"Subscribe to newsletter","receivedAt":"2025-11-07T19:02:58.749Z"}
+{"id":1762542178940,"name":"Newsletter Subscriber","email":"vincentanyanwu11@gmail.com","message":"Subscribe to newsletter","receivedAt":"2025-11-07T19:02:58.940Z"}
+{"id":1762542182294,"name":"Newsletter Subscriber","email":"vincentanyanwu11@gmail.com","message":"Subscribe to newsletter","receivedAt":"2025-11-07T19:03:02.294Z"}
+{"id":1762542182299,"name":"Newsletter Subscriber","email":"vincentanyanwu11@gmail.com","message":"Subscribe to newsletter","receivedAt":"2025-11-07T19:03:02.299Z"}
+{"id":1762542226948,"name":"Newsletter Subscriber","email":"anyanwuvincent7@gmail.com","message":"Subscribe to newsletter","receivedAt":"2025-11-07T19:03:46.948Z"}
+{"id":1762542231501,"name":"Newsletter Subscriber","email":"anyanwuvincent7@gmail.com","message":"Subscribe to newsletter","receivedAt":"2025-11-07T19:03:51.501Z"}
+{"id":1762542232437,"name":"Newsletter Subscriber","email":"anyanwuvincent7@gmail.com","message":"Subscribe to newsletter","receivedAt":"2025-11-07T19:03:52.437Z"}

@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Contact - Anyanwu Jude & Co - Chartered Accountants</title>
+    <meta name="description" content="Get in touch with Anyanwu Jude & Co for professional accounting services in Lagos, Nigeria. Contact us today." />
+    <link rel="stylesheet" href="/styles.css" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+  </head>
+  <body>
+    <header class="nav">
+      <div class="container">
+        <a class="brand" href="/"><img src="/images/logo.jpg" alt="Anyanwu Jude & Co Logo" class="logo"><div>Anyanwu Jude & Co</div><div><small>(Chartered Accountants)</small></div></a>
+        <nav class="nav-links">
+          <a href="about.html">About</a>
+          <a href="services.html">Services</a>
+          <a href="mission.html">Mission & Vision</a>
+          <a href="team.html">Team</a>
+          <a href="contact.html">Contact</a>
+        </nav>
+        <nav class="nav-links mobile">
+          <a href="about.html">About</a>
+          <a href="services.html">Services</a>
+          <a href="mission.html">Mission & Vision</a>
+          <a href="team.html">Team</a>
+          <a href="contact.html">Contact</a>
+        </nav>
+        <div class="hamburger" id="hamburger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+
+      </div>
+    </header>
+
+    <main>
+      <section id="contact" class="container contact fade-in">
+        <h2>Contact us</h2>
+        <form id="contactForm" novalidate>
+          <div class="row">
+            <label for="name">Name</label>
+            <input id="name" name="name" required />
+          </div>
+          <div class="row">
+            <label for="email">Email</label>
+            <input id="email" name="email" type="email" required />
+          </div>
+          <div class="row">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" rows="6" required></textarea>
+          </div>
+          <div class="row actions">
+            <button type="submit">Send message</button>
+            <div id="status" aria-live="polite"></div>
+          </div>
+        </form>
+      </section>
+
+    </main>
+
+
+
+
+    <footer class="site-footer">
+      <div class="container">
+        <div class="footer-grid">
+          <div class="footer-section">
+            <h3>Quick Links</h3>
+            <ul>
+              <li><a href="about.html">About</a></li>
+              <li><a href="services.html">Services</a></li>
+              <li><a href="mission.html">Mission & Vision</a></li>
+              <li><a href="contact.html">Contact</a></li>
+            </ul>
+          </div>
+          <div class="footer-section">
+            <h3>Services</h3>
+            <ul>
+              <li><a href="services.html">Auditing Services</a></li>
+              <li><a href="services.html">Tax Consultancy</a></li>
+              <li><a href="services.html">Financial Training</a></li>
+              <li><a href="services.html">Accounting Services</a></li>
+            </ul>
+          </div>
+          <div class="footer-section">
+            <h3>Contact Information</h3>
+            <p><strong>Address:</strong> 10A OGUNMUYIWA STREET, BY ALHAJI ADEYINKA LANE, GBADAMOSI BUS STOP, ITIRE, LAGOS.</p>
+            <p><strong>Phone:</strong> 234-0809-8818-141, 234-0803-4414-160</p>
+            <p><strong>Email:</strong> <a href="mailto:judeandco@gmail.com">judeandco@gmail.com</a></p>
+            <p><strong>VAT Registration:</strong> TIN 04501281-0001</p>
+          </div>
+          <div class="footer-section newsletter">
+            <h3>Newsletter</h3>
+            <p>Stay updated with our latest news and insights.</p>
+            <form class="newsletter-form">
+              <input type="email" placeholder="Enter your email" required>
+              <button type="submit">Subscribe</button>
+            </form>
+          </div>
+        </div>
+        <div class="copyright">
+          <p>&copy; <span id="year"></span> Anyanwu Jude & Co (Chartered Accountants). All rights reserved.</p>
+          <p>Designed with <span class="heart">&hearts;</span> for excellence in accounting services.</p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="/app.js" defer></script>
+  </body>
+</html>
